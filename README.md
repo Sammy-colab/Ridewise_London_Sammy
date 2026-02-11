@@ -577,9 +577,9 @@ POST /api/v1/predict/batch
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
-### Phase 1: Foundation (Weeks 1-3) ✅
+### Phase 1: Foundation (Weeks 1-3)
 
 - [x] Data pipeline & feature engineering
 - [x] Baseline models (Logistic Regression, K-Means)
@@ -602,7 +602,7 @@ POST /api/v1/predict/batch
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these guidelines:
 
@@ -620,13 +620,13 @@ Contributions are welcome! Please follow these guidelines:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📞 Contact & Support
+## Contact & Support
 
 - **Project Maintainer:** [Your Name]
 - **Email:** your.email@example.com
@@ -637,8 +637,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Built with ❤️ for Data Science Excellence**
+**Built for Data Science Excellence**
 
-⭐ Star this repo if you find it helpful!
+Star this repository if you find it helpful!
 
 </div>
